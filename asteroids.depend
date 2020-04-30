@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1588193867 source:c:\users\domin\desktop\asteroids\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<time.h>
+	<stdlib.h>
+	<vector>
+
