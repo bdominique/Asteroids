@@ -1,5 +1,5 @@
 # Asteroids
-After building some basic C++ std console games such as Snake and Tic-Tac Toe in school, I decided to build a more advanced Asteroids game.
+After building some basic C++ std console games such as Snake and Tic-Tac Toe in school, I decided to build a more advanced Asteroids game that can also be played by a Reinforment Learning Agent.
 
 ![alt text](https://github.com/bdominique/Asteroids/blob/master/Screenshot%20(114).png)
 
