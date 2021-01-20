@@ -3,7 +3,7 @@ After building some basic C++ std console games such as Snake and Tic-Tac Toe in
 
 ![alt text](https://github.com/bdominique/Asteroids/blob/master/Screenshot%20(114).png)
 
-Asteroids is a C++ std console game where you take control of a spaceship. Your job is to survive for as long as possible while avoiding asteroids and lasers. The game's speed increases according to the score of the player and has 5 basic levels of speed, and 5 difficulty levels. The difficulty levels coorespond to how many asteroids you'll see on screen (A difficulty of 1 means that there'll be 1 asteroid on screen and a difficulty of 5 means that there will be 5 asteroids on screen). Regardless of what difficulty the game is at, the first asteroid is set to always follow the location of the player to force them to keep moving. The others are set to randomly pick a new column once they reach the bottom of the screen.
+Asteroids is a C++ std console game where you take control of a spaceship. Your job is to survive for as long as possible while avoiding asteroids and lasers. The game's speed increases according to the score of the player and has 5 basic levels of speed, and 5 difficulty levels. The difficulty levels correspond to how many asteroids you'll see on screen (A difficulty of 1 means that there'll be 1 asteroid on screen and a difficulty of 5 means that there will be 5 asteroids on screen). Regardless of what difficulty the game is at, the first asteroid is set to always follow the location of the player to force them to keep moving. The others are set to randomly pick a new column once they reach the bottom of the screen.
 
 ![alt text](https://github.com/bdominique/Asteroids/blob/master/Screenshot%20(115).png)
 
